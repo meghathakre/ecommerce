@@ -6,6 +6,8 @@
             "category":"rings",
             "price":"8000",
             "brand":"",
+            "discount":20,
+            "offer":"yes",
            "description":"this is diamond neckless",
            "images":"https://www.orra.co.in/media/catalog/product/cache/fae84d45891aba1e98b5a417448a6ddb/c/r/crg23a19_1.jpg"
         },
@@ -15,6 +17,8 @@
             "category":"earings",
             "price":"44400",
             "brand":"boAt",
+           "discount":10,
+            "offer":"yes",
            "description":"this is diamond neckless",
            "images":"https://www.orra.co.in/media/catalog/product/cache/fae84d45891aba1e98b5a417448a6ddb/y/e/yer24i04_1.jpg"
         },
@@ -23,6 +27,8 @@
             "name":"jewellary",
             "category":"rings",
             "price":"3400",
+           "discount":0,
+            "offer":"",
             "brand":"boAt",
            "description":"this is diamond neckless",
            "images":"https://www.orra.co.in/media/catalog/product/cache/fae84d45891aba1e98b5a417448a6ddb/p/r/prg23010_2.jpg"
@@ -33,6 +39,8 @@
             "category":"neckless",
             "price":"3500",
             "brand":"boAt",
+            "discount":0,
+            "offer":"",
            "description":"this is diamond neckless",
            "images":"https://www.orra.co.in/media/catalog/product/cache/fae84d45891aba1e98b5a417448a6ddb/o/n/onk18012_4_1.jpg"
         },
@@ -42,6 +50,8 @@
             "category":"Bengles",
             "price":"80000",
             "brand":"boAt",
+            "discount":0,
+            "offer":"",
            "description":"this is diamond neckless",
            "images":"https://www.orra.co.in/media/catalog/product/cache/d746469e6b012b04e6ccf325b028e36b/o/b/obo23o04_1_wl0pvuhdphvygqgm.jpg"
         },
@@ -51,6 +61,8 @@
             "category":"Prejewellary",
             "price":"90000",
             "brand":"boAt",
+           "discount":0,
+            "offer":"",
            "description":"this is diamond neckless",
            "images":"https://www.orra.co.in/media/catalog/product/cache/fae84d45891aba1e98b5a417448a6ddb/o/r/org23li3_1.jpg"
         },
@@ -60,6 +72,8 @@
             "category":"neckless",
             "price":"60400",
             "brand":"boAt",
+            "discount":60,
+            "offer":"yes",
            "description":"this is diamond neckless",
            "images":"https://www.orra.co.in/media/catalog/product/cache/fae84d45891aba1e98b5a417448a6ddb/o/s/osp23027.jpg"
         },
@@ -69,6 +83,8 @@
             "category":"woman",
             "price":"83400",
             "brand":"boAt",
+            "discount":0,
+            "offer":"",
            "description":"this is diamond neckless",
            "images":"https://www.orra.co.in/media/catalog/product/cache/d746469e6b012b04e6ccf325b028e36b/o/s/osn21009.jpg"
         },
@@ -78,6 +94,8 @@
             "category":"Bengless",
             "price":"83400",
             "brand":"gold",
+            "discount":0,
+            "offer":"",
            "description":"this is gold bengles",
            "images":"https://www.orra.co.in/media/catalog/product/cache/fae84d45891aba1e98b5a417448a6ddb/c/b/cbg23a19_1.jpg"
         },
@@ -87,6 +105,8 @@
             "category":"neckless",
             "price":"34000",
             "brand":"diamond",
+            "discount":0,
+            "offer":"",
            "description":"this is diamond neckless",
            "images":"https://www.orra.co.in/media/catalog/product/cache/a062e776095ada03f265202079309f18/c/s/csn23a27.jpg"
         },
@@ -96,6 +116,8 @@
             "category":"neckless",
             "price":"35400",
             "brand":"diamond",
+            "discount":0,
+            "offer":"",
            "description":"this is diamond neckless",
            "images":"https://www.orra.co.in/media/catalog/product/cache/fae84d45891aba1e98b5a417448a6ddb/c/n/cns24a03.jpg"
         },
@@ -105,6 +127,8 @@
             "category":"neckless",
             "price":"33400",
             "brand":"diamond",
+            "discount":0,
+            "offer":"",
            "description":"this is diamond neckless",
            "images":"https://www.orra.co.in/media/catalog/product/cache/d746469e6b012b04e6ccf325b028e36b/a/n/ans24a03_1.jpg"
         }

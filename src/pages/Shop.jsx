@@ -217,11 +217,11 @@ console.log(pricemydata);
             <div style={{width:"350px", paddingLeft:"20px",paddingTop:"20px", fontSize:"11px", fontWeight:"bold"}}>       
              <h5> Search By Category</h5> 
               <br/>
-              <input type="radio" value="rings" name="cat" onChange={(e)=>{setCatData(e.target.value)}} /> Mens Watches
+              <input type="radio" value="rings" name="cat" onChange={(e)=>{setCatData(e.target.value)}} />Rings
               <br/>
-              <input type="radio" value="bengles" name="cat"  onChange={(e)=>{setCatData(e.target.value)}} /> Womens Watches
+              <input type="radio" value="bengles" name="cat"  onChange={(e)=>{setCatData(e.target.value)}} /> Bengles
               <br/>
-              <input type="radio" value="earings" name="cat"  onChange={(e)=>{setCatData(e.target.value)}} /> Kids Watches
+              <input type="radio" value="earings" name="cat"  onChange={(e)=>{setCatData(e.target.value)}} /> Earings
              <br/>
              <Button size="sm" onClick={handleSubCategory}>Search</Button>
              <br/> <br/>

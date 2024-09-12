@@ -1,7 +1,7 @@
-// import blog1 from "../images/bolg1.jpeg";
-// import blog2 from "../images/blog2.jpg";
-// import blog3 from "../images/blog3.jpg";
-// import blog4 from "../images/blog4.jpg";
+ import blog1 from "../images/b1.jpg";
+ import blog2 from "../images/b2.jpg";
+ import blog3 from "../images/B3.jpg";
+ import blog4 from "../images/dia.jpg";
 // import blog5 from "../images/log5.jpg";
 
 const Blog=()=>{
@@ -10,7 +10,7 @@ const Blog=()=>{
          <h1> Our Blog</h1>
          Welcome to WatchTime’s blog – the watch collector’s daily resource for the latest news on watches and the watch industry. Here, the WatchTime editorial team and other contributors from top watch blogs and online watch magazines post reviews of new watch models, news from the watch industry, reports from watch collector events, and much more.
          <p>
-         {/* <img src={blog1} />         */}
+         { <img src={blog1} width="100%" height="400px"/>         }
 
 Another Look at the Patek Philippe Nautilus Flyback Chronograph in White Gold with Denim Strap (With Live Images)
 First launched at Watches & Wonders 2024 is the one of the more more experimental new timepieces from the famed watchmaker in the Patek Philippe Nautilus Flyback Chronograph ref. 5980/60G-001. The watch is a fresh face for the timepiece which takes the place of the now discontinued versions that came in red gold and two-tone...
@@ -27,10 +27,10 @@ May 17, 2024 by Martin Green
 It’s Time – WatchTime New York 2024 Tickets On Sale Now!
 After an incredible show in 2023, WatchTime New York, the premier collector’s event in North America, is set to return to Manhattan from October 18th to 20th, 2024. WatchTime New York 2024 promises to be even more spectacular, with the show marking the 25th anniversary of WatchTime and bringing together the world’s finest watchmakers, timepieces,...
 Read the article<br/>
-{/* <img src={blog2} />
-<img src={blog3}  style={{margin:"20px"}}/>
-<img src={blog4} />
-<br/> <br/> */}
+ <img src={blog2} width="100%" height="300px" />
+<img src={blog3}  style={{margin:"20px"}} width="100%" height="300px"/>
+<img src={blog4}/>
+<br/> <br/> 
 Jun 20, 2024 by WatchTime
 
 Parmigiani Fleurier Unveils Tonda PF Micro-Rotor No Date at Watches and Wonders 2024

@@ -67,7 +67,7 @@ const ans=mydata.map((key)=>{
           
           
        <div id="proHeading">
-        <h1> Our Premium Products</h1>
+        <h1> Our Premium jewellary</h1>
        </div>
        
        <div id="homeProduct">
